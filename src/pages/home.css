@@ -1,0 +1,22 @@
+
+
+.margin{
+  margin-right:100px;
+}
+button {
+  background: var(--PrimaryColor); 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 3rem;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+   outline:none;
+}
+button:hover {
+  background:var(--whiteColor);
+}
